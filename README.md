@@ -4,7 +4,7 @@
 ######A. Predict student outcomes in MOOCs offered by edX
 * Outcomes: Certifications & Grade Range
 
-######B. Determine browser events that affects student outcomes
+######B. Determine browser events that affect student outcomes
 
 ######Acquisition:
 [Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26147): 129843 student logs containing browser events
