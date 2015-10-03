@@ -11,4 +11,4 @@
 
 Source: edX courses administered by HarvardX & MITx from 2012 & 2013
 
-#####This repository contains an IPython Notebook providing a walkthrough of my project, and a pdf presentation I delivered on career day at Metis
+#####This repository contains an IPython Notebook providing a walkthrough of my project, and a pdf presentation I delivered at Metis
