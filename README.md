@@ -4,7 +4,9 @@
 #####Objectives:
 ######A. Predict student outcomes in MOOCs offered by edX by performing classification techniques on student behavior captured by browser events, student demographics, and final grades - Create, train, and test predictive models with student logs.
 * Outcomes: Certifications & Grade Range
+
 ######B. Determine browser events that affect student outcomes, by determining significant features for model performance, and through exploratory data analysis.
+
 ######C. Enable educators to make more informed descision to improve student performance by providing actionable insights about student performance
 
 #####Value of Analysis:
