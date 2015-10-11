@@ -22,7 +22,6 @@
   * Courseware is the curriculum content of a MOOC. The courseware of a MOOC implicitly indicates its curriculums delivery methods with content (resource, assignment, and assessment) types, counts, durations, and sizes.
   *	Student interactions with curriculum content in the courseware implicitly indicates their study habits.
 *	These curriculum and study habit measures are exhibited by browser event logs of student interactions with the edX platform.
-  *	Browser Event Examples: Numbers of chapters, vieo plays, forum posts, general browser events, etc., a student has executed
 *	Student browser event trends, demographics, and outcome averages differ between MOOCs, schools, and MOOC platforms.
 *	Since unique event trends of each MOOC determine overall student performance, demographics cannot be solely attributed to student performance. Therefore demographics must be considered in conjunction with attributes of specific MOOCs, offered by specific schools, and hosted on specific MOOC platforms. 
 
