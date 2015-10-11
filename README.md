@@ -2,7 +2,7 @@
 ####By Joshua E. Jodesty
 
 ######Data Scource:
-[Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26147): 129843 Student logs from HarvardX and MITx MOOCs on edX containing student behavior captured by browser events, student demographics, and final grades.
+[dataverse.harvard.edu](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26147) - 129843 Student logs from HarvardX and MITx MOOCs on edX containing student behavior captured by browser events, student demographics, and final grades.
 
 #####Objectives:
 ######A. Predict student outcomes in MOOCs offered by edX by performing classification techniques on student behavior captured by browser events, student demographics, and final grades - Create, train, and test predictive models with student logs.
