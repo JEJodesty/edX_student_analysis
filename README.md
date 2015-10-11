@@ -26,11 +26,4 @@
 *	Student browser event trends, demographics, and outcome averages differ between MOOCs, schools, and MOOC platforms.
 *	Since unique event trends of each MOOC determine overall student performance, demographics cannot be solely attributed to student performance. Therefore demographics must be considered in conjunction with attributes of specific MOOCs, offered by specific schools, and hosted on specific MOOC platforms. 
 
-##Actionable Insights
-#####Model Performance:
-
-#####Significant Features:
-
-#####Key Data Exploration Discoveries:
-
-#####This repository contains an IPython Notebook providing a walkthrough of my project, and a pdf presentation I delivered at Metis
+#####This repository contains an IPython Notebook providing a walkthrough of my project, and a pdf presentation I delivered at Metis. The walkthrough and pdf provide actionable insights I've extracted from the student log dataset.
