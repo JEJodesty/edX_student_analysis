@@ -10,7 +10,7 @@
 
 ######B. Determine browser event phenomena that affects student outcomes, by determining significant features for model performance, and through exploratory data analysis.
 
-#####Goal. Enable educators to make more informed descision to improve student performance by providing actionable insights about student performance
+######Goal: Enable educators to make more informed descision to improve student performance by providing actionable insights about student performance
 
 #####Value of Analysis:
 * Provide individualized feedback that will optimize their study habits.
