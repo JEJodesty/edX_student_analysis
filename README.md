@@ -28,8 +28,11 @@ Enable educators to make more informed descision to improve student performance 
 
 #####Methodology:
 A. Explore, cleanse, & transform data
+
 B. Discover trends
-B. Create and evaluate multiple predictive models
-C. Determine significant attributes for optimal model performance
+
+C. Create and evaluate multiple predictive models
+
+D. Determine significant attributes for optimal model performance
 
 #####This repository contains an IPython Notebook providing a walkthrough of my project, and a pdf presentation I delivered at Metis. The walkthrough and pdf provide actionable insights I've extracted from the student log dataset.
