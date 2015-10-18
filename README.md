@@ -1,6 +1,8 @@
 ###Predicting Student Performance in edX using Browser Events
 ####By Joshua E. Jodesty
 
+#####This repository contains an IPython Notebook providing a walkthrough of my project, and a pdf presentation I delivered at Metis. The walkthrough and pdf provide actionable insights I've extracted from the student log dataset. NOTE: This pdf may contain descrepencies since this project is ongoing.
+
 ######Data Scource:
 [dataverse.harvard.edu](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26147) - 129843 Student logs from HarvardX and MITx MOOCs on edX containing student behavior captured by browser events, student demographics, and final grades.
 
@@ -34,5 +36,3 @@ B. Discover trends
 C. Create and evaluate multiple predictive models
 
 D. Determine significant attributes for optimal model performance
-
-#####This repository contains an IPython Notebook providing a walkthrough of my project, and a pdf presentation I delivered at Metis. The walkthrough and pdf provide actionable insights I've extracted from the student log dataset.
