@@ -29,15 +29,5 @@ To accomplish my objectives, I cleansed, transformed, explored, modeled, visuali
 *	Student browser event trends, demographics, and outcome averages differ between MOOCs, schools, and MOOC platforms.
 *	Since unique event trends of each MOOC determine overall student performance, demographics cannot be solely attributed to student performance. Therefore demographics must be considered in conjunction with attributes of specific MOOCs, offered by specific schools, and hosted on specific MOOC platforms. 
 
-#####Methodology:
-A. Explore, cleanse, & transform data
-
-B. Discover trends
-
-C. Create and evaluate multiple predictive models
-
-D. Determine significant attributes for optimal model performance
-
 #####Appendix:
 * **Browser Events** - In this case, browser events represent students’ interactions with the edX platform in their web browser, which include interactions with curriculum content in the “Courseware” tab. Browser events can be mouse clicks and hovers, button presses, etc. In this case, browser events represent students’ interactions with the edX platform in their web browser. Browser events can be mouse clicks and hovers, button presses, etc. Also in this case, browser events are subjected to interactions with specific content in the “courseware”. Types of browser events include the numbers of videos played, posts in the course forum, and overall interactions. The student account measurements are aggregated from browser events. These measures include the numbers of days students interact with the courseware in a single course, and whether they accessed more than half of the chapters.
-
