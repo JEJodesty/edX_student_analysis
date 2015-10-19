@@ -21,11 +21,6 @@ The [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.79
 #####Methodology Overview:
 To accomplish my objectives, I cleansed, transformed, explored, modeled, visualized, and interpreted student log data from HarvardX and MITx MOOCs on edX. I analyzed this data using Python, Pandas, NumPy, and SciKit-Learn in Jupyter’s IPython Notebook.
 
-#####Value of Analysis:
-* Provide individualized feedback that will optimize their study habits.
-* Customize students' e-learning experiences to suit their demographic.
-* Intervene when students are exhibiting behavior and fit demographics conducive to negative outcomes in a MOOC
-
 #####Challenges: 
 * Determining student behavior that affects an individual student’s performance in a MOOC is partially a set of individualistic measurements of student access of a MOOCs “courseware,” and student evaluation methods employed for that MOOC.
   * Courseware is the curriculum content of a MOOC. The courseware of a MOOC implicitly indicates its curriculums delivery methods with content (resource, assignment, and assessment) types, counts, durations, and sizes.
