@@ -6,8 +6,8 @@
 #####What I’ve done and why:
 My Educational Data Mining research and unconventional education path ignited my passion for Data Science and the improvement of Education. For these reasons, I’ve decided to undertake a data science project that will enable educators to make more informed decisions towards improving student performance in e-learning environments. This project involves my analysis of anonymized student-level data from “massive open online courses,” otherwise known as MOOCs.
 
-#####Data Scource & Overview: [dataverse.harvard.edu](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26147) 
-This dataset contains 129843 student logs from HarvardX and MITx MOOCs on edX. These logs mostly contain student behavior captured by browser events, measures derived from these events, anonymized student and course identifications, student demographics, and final grades.
+#####Data Scource & Overview:  
+The [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26147) contains 129843 student logs from HarvardX and MITx MOOCs on edX. These logs mostly contain student behavior captured by browser events, measures derived from these events, anonymized student and course identifications, student demographics, and final grades.
 
 #####Primary Objective:
 The primary objective of my analysis is to deliver insights that will enable personalization of students' curriculum, instruction, and feedback suited to their study habits and demographic, and the opportunity to intervene when these habits and demographics are conducive to negative outcomes in MOOCs.
