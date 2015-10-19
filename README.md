@@ -12,7 +12,7 @@ The primary objective of my analysis is to deliver insights that will enable per
 #####Methodology Overview:
 To accomplish this objective, I cleansed, transformed, explored, modeled, visualized, and interpreted student log data from HarvardX and MITx MOOCs on edX. I analyzed this data using Python, Pandas, NumPy, and SciKit-Learn in Jupyter’s IPython Notebook.
 
-######Data Scource:
+#####Data Scource:
 [dataverse.harvard.edu](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26147) - 129843 Student logs from HarvardX and MITx MOOCs on edX containing student behavior captured by browser events, student demographics, and final grades.
 
 #####Products:
