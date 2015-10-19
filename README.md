@@ -11,7 +11,7 @@ The [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.79
 
 #####Objectivesof my analysis:
 ######1. To deliver insights that will enable the personalization of students' curriculum, instruction, and feedback. These personalized learning experiences are to be suited to their study habits and demographics, which I analyze in this project.
-######2. To deliver insights that will enable the ability to intervene when these habits and demographics are conducive to negative outcomes in MOOCs.
+######2. To deliver insights that will enable educators to intervene when these habits and demographics are conducive to negative outcomes in MOOCs.
 
 #####Current Solutions/Products:
 ######1. Trained and tested predictive models that can efficiently predict student performance outcomes in MOOCs offered by edX using various classification techniques. I define an outcome as whether a student recieves a certification, along with their grade range in the form of letter grades.
