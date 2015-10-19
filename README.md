@@ -19,7 +19,7 @@ The [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.79
 ######3. Recorded unique characteristics of schools and courses hosted by edX.
 
 #####Methodology Overview:
-To accomplish this objective, I cleansed, transformed, explored, modeled, visualized, and interpreted student log data from HarvardX and MITx MOOCs on edX. I analyzed this data using Python, Pandas, NumPy, and SciKit-Learn in Jupyter’s IPython Notebook.
+To accomplish my objectives, I cleansed, transformed, explored, modeled, visualized, and interpreted student log data from HarvardX and MITx MOOCs on edX. I analyzed this data using Python, Pandas, NumPy, and SciKit-Learn in Jupyter’s IPython Notebook.
 
 #####Value of Analysis:
 * Provide individualized feedback that will optimize their study habits.
