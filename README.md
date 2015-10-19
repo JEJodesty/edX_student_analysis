@@ -9,7 +9,7 @@ My Educational Data Mining research and unconventional education path ignited my
 #####Data Scource & Overview:  
 The [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26147) contains 129843 student logs from HarvardX and MITx MOOCs on edX. These logs mostly contain student behavior captured by browser events, measures derived from these events, anonymized student and course identifications, student demographics, and final grades.
 
-#####Objectivesof my analysis:
+#####Objectives of my analysis:
 ######1. To deliver insights that will enable the personalization of students' curriculum, instruction, and feedback. These personalized learning experiences are to be suited to their study habits and demographics, which I analyze in this project.
 ######2. To deliver insights that will enable educators to intervene when these habits and demographics are conducive to negative outcomes in MOOCs.
 
