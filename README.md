@@ -15,25 +15,24 @@ The [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.79
 
 #####Secondary Objectives of my analysis:
 ######1. Predict student performance outcomes in MOOCs offered by edX
-######2. Determine students' study habits, curiculum delivery methods, and demographics conducive to positive and negative performance outcomes in MOOCs.
+I define an outcome as whether a student recieves a certification, along with their grade range.
+######2. Determine student behavior, curiculum delivery methods, and demographics conducive to positive and negative performance outcomes in MOOCs. 
+Student behavior is captured by their browser events. In this case, browser events reffer to students’ interactions with the edX platform in their web browser. These are primarly interactions with curriculum content in the “Courseware” tab. These interactions implicitly measure their study habits.
+study habits, curiculum delivery methods
 
 #####Current Solutions/Products:
-######1. Trained and tested predictive models that can efficiently predict student performance outcomes in MOOCs offered by edX using various classification techniques. I define an outcome as whether a student recieves a certification, along with their grade range in the form of letter grades.
-######2. Determined significant student behavior/browser event phenomena affecting their outcomes, as well as demographics correlated to it. 
+######1. Trained and tested predictive models that can efficiently predict student performance outcomes in MOOCs offered by edX using various classification techniques.
+######2. Determined significant browser event phenomena and curiculum delivery methods affecting their outcomes, as well as demographics correlated to it. 
 ######3. Recorded unique characteristics of schools and courses hosted by edX.
 
 #####Methodology Overview:
 To accomplish my objectives, I cleansed, transformed, explored, modeled, visualized, and interpreted student log data from HarvardX and MITx MOOCs on edX. I analyzed this data using Python, Pandas, NumPy, and SciKit-Learn in Jupyter’s IPython Notebook.
 
-#####Challenges: 
-* Determining student behavior that affects an individual student’s performance in a MOOC is partially a set of individualistic measurements of student access of a MOOCs “courseware,” and student evaluation methods employed for that MOOC.
-  * Courseware is the curriculum content of a MOOC. The courseware of a MOOC implicitly indicates its curriculums delivery methods with content (resource, assignment, and assessment) types, counts, durations, and sizes.
-  *	Student interactions with curriculum content in the courseware implicitly indicates their study habits.
-*	These curriculum and study habit measures are exhibited by browser event logs of student interactions with the edX platform.
-*	Student browser event trends, demographics, and outcome averages differ between MOOCs, schools, and MOOC platforms.
+#####Considerations: 
+*	Curiculum delivery methods differ between MOOCs, schools, and MOOC platforms. This in-turn affets student peroformance and browser event trends.
 *	Since unique event trends of each MOOC determine overall student performance, demographics cannot be solely attributed to student performance. Therefore demographics must be considered in conjunction with attributes of specific MOOCs, offered by specific schools, and hosted on specific MOOC platforms. 
 
 #####Appendix:
-**Browser Events** - In this case, browser events represent students’ interactions with the edX platform in their web browser, which include interactions with curriculum content in the “Courseware” tab. Browser events can be mouse clicks and hovers, button presses, etc. In this case, browser events represent students’ interactions with the edX platform in their web browser. Browser events can be mouse clicks and hovers, button presses, etc. Also in this case, browser events are subjected to interactions with specific content in the “courseware”. Types of browser events include the numbers of videos played, posts in the course forum, and overall interactions. The student account measurements are aggregated from browser events. These measures include the numbers of days students interact with the courseware in a single course, and whether they accessed more than half of the chapters.
+**Browser Events** - In this case, browser events reffer to students’ interactions with the edX platform in their web browser, which include interactions with curriculum content in the “Courseware” tab. Browser events can be mouse clicks and hovers, button presses, etc. In this case, browser events represent students’ interactions with the edX platform in their web browser. Browser events can be mouse clicks and hovers, button presses, etc. Also in this case, browser events are subjected to interactions with specific content in the “courseware”. Types of browser events include the numbers of videos played, posts in the course forum, and overall interactions. The student account measurements are aggregated from browser events. These measures include the numbers of days students interact with the courseware in a single course, and whether they accessed more than half of the chapters.
 
 **Generated Features** - grade ranges in the form of letter grades; whether a student received a certification along with their letter grade (“outcome”); age ranges; percentages of chapters viewed; proportions of events that were video plays, and forum posts; overall events, video plays, and forum posts per day; the number of days videos where played, and content was posted in the forum; etc.
