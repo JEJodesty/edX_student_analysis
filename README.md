@@ -1,7 +1,7 @@
 ###Predicting Student Performance in edX using Browser Events
 ####By Joshua E. Jodesty
 
-######This repository contains an IPython Notebook providing a walkthrough of my project, and a pdf presentation I delivered at Metis. The walkthrough and pdf provide actionable insights I've extracted from the student log dataset. NOTE: This pdf may contain descrepencies since this project is ongoing.
+######This repository contains an [IPython Notebook](https://github.com/JEJodesty/edX_student_analysis/blob/master/edX_Student_Analysis.ipynb) walkthrough of my project, and a pdf presentation I delivered at Metis. The walkthrough and pdf provide actionable insights I've extracted from a student log dataset. NOTE: The notebook and pdf may contain descrepencies since this project is ongoing.
 
 #####Goal: What I’ve done & Why
 My Educational Data Mining research and unconventional education path ignited my passion for Data Science and the improvement of Education. For these reasons, I’ve decided to undertake a data science project that will enable educators to make more informed decisions towards improving student performance in e-learning environments. This project involves my analysis of anonymized student-level data from “massive open online courses,” otherwise known as MOOCs.
