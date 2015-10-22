@@ -3,7 +3,7 @@
 
 ######This repository contains an [IPython Notebook](https://github.com/JEJodesty/edX_student_analysis/blob/master/edX_Student_Analysis.ipynb) walkthrough of my project, and a pdf presentation I delivered at Metis. The walkthrough and pdf provide actionable insights I've extracted from a student log dataset. NOTE: The notebook and pdf may contain descrepencies since this project is ongoing.
 
-#####Goal: What, Why, & How:
+#####What, Why, & How:
 My Educational Data Mining research and unconventional education path ignited my passion for Data Science and the improvement of Education. For these reasons, I’ve decided to undertake a data science project that will enable educators to make more informed decisions towards improving student performance in e-learning environments. This project involves my analysis of anonymized student-level data from “massive open online courses,” otherwise known as MOOCs. I've cleansed, transformed, explored, modeled, visualized, and interpreted student log data from HarvardX and MITx MOOCs on edX, using Python, Pandas, NumPy, and SciKit-Learn in Jupyter’s IPython Notebook.
 
 #####Data Scource & Overview:  
@@ -23,7 +23,9 @@ study habits, curiculum delivery methods
 #####Current Solutions/Products:
 ######1. Trained, tested, and evaluated predictive models that can efficiently predict student performance outcomes in MOOCs offered by edX.
 * Created models using Random Forest Classifier that correctly classifies the outcomes of 95.55% of students in a course and 92.86% of students in a school.
+
 ######2. Determined significant browser event phenomena and curiculum delivery methods affecting their outcomes, as well as demographics correlated to it. 
+
 ######3. Recorded unique characteristics of schools and courses hosted by edX.
 
 #####Considerations: 
