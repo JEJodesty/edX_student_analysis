@@ -22,7 +22,7 @@ study habits, curiculum delivery methods
 
 #####Current Solutions/Products:
 ######1. Trained, tested, and evaluated predictive models that can efficiently predict student performance outcomes in MOOCs offered by edX.
-* Created models using Random Forest Classifier that correctly classifies the outcomes of 95.55% of students in a course and 92.86% of students in a school.
+* **Created models using Random Forest Classifier that correctly classifies the outcomes of 95.55% of students in a course and 92.86% of students in a school.**
 
 ######2. Determined significant browser event phenomena and curiculum delivery methods affecting their outcomes, as well as demographics correlated to it. 
 
