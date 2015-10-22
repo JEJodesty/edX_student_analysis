@@ -3,8 +3,8 @@
 
 ######This repository contains an [IPython Notebook](https://github.com/JEJodesty/edX_student_analysis/blob/master/edX_Student_Analysis.ipynb) walkthrough of my project, and a pdf presentation I delivered at Metis. The walkthrough and pdf provide actionable insights I've extracted from a student log dataset. NOTE: The notebook and pdf may contain descrepencies since this project is ongoing.
 
-#####Goal: What I’ve done & Why
-My Educational Data Mining research and unconventional education path ignited my passion for Data Science and the improvement of Education. For these reasons, I’ve decided to undertake a data science project that will enable educators to make more informed decisions towards improving student performance in e-learning environments. This project involves my analysis of anonymized student-level data from “massive open online courses,” otherwise known as MOOCs.
+#####Goal: What, Why, & How:
+My Educational Data Mining research and unconventional education path ignited my passion for Data Science and the improvement of Education. For these reasons, I’ve decided to undertake a data science project that will enable educators to make more informed decisions towards improving student performance in e-learning environments. This project involves my analysis of anonymized student-level data from “massive open online courses,” otherwise known as MOOCs. I've cleansed, transformed, explored, modeled, visualized, and interpreted student log data from HarvardX and MITx MOOCs on edX, using Python, Pandas, NumPy, and SciKit-Learn in Jupyter’s IPython Notebook.
 
 #####Data Scource & Overview:  
 The [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26147) contains 129843 student logs from HarvardX and MITx MOOCs on edX. These logs mostly contain student behavior captured by browser events, measures derived from these events, anonymized student and course identifications, student demographics, and final grades.
@@ -21,12 +21,10 @@ Student behavior is captured by their browser events. In this case, browser even
 study habits, curiculum delivery methods
 
 #####Current Solutions/Products:
-######1. Trained and tested predictive models that can efficiently predict student performance outcomes in MOOCs offered by edX using various classification techniques.
+######1. Trained, tested, and evaluated predictive models that can efficiently predict student performance outcomes in MOOCs offered by edX.
+* Created models using Random Forest Classifier that correctly classifies the outcomes of 95.55% of students in a course and 92.86% of students in a school.
 ######2. Determined significant browser event phenomena and curiculum delivery methods affecting their outcomes, as well as demographics correlated to it. 
 ######3. Recorded unique characteristics of schools and courses hosted by edX.
-
-#####Methodology Overview:
-To accomplish my objectives, I cleansed, transformed, explored, modeled, visualized, and interpreted student log data from HarvardX and MITx MOOCs on edX. I analyzed this data using Python, Pandas, NumPy, and SciKit-Learn in Jupyter’s IPython Notebook.
 
 #####Considerations: 
 *	Curiculum delivery methods differ between MOOCs, schools, and MOOC platforms. This in-turn affets student peroformance and browser event trends.
