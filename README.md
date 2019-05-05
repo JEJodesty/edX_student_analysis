@@ -1,4 +1,4 @@
-###Predicting Student Performance in edX using Browser Events
+### Predicting Student Performance in edX using Browser Events
 ####By Joshua E. Jodesty
 
 ######This repository contains an [IPython Notebook](https://github.com/JEJodesty/edX_student_analysis/blob/master/edX_Student_Analysis.ipynb) walkthrough of my project, and a pdf presentation I delivered at Metis. The walkthrough and pdf provide actionable insights I've extracted from a student log dataset. NOTE: The notebook and pdf may contain descrepencies since this project is ongoing.
