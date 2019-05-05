@@ -4,7 +4,7 @@
 ######This repository contains an [IPython Notebook](https://github.com/JEJodesty/edX_student_analysis/blob/master/edX_Student_Analysis.ipynb) walkthrough of my project, and a pdf presentation I delivered at Metis. The walkthrough and pdf provide actionable insights I've extracted from a student log dataset. NOTE: The notebook and pdf may contain descrepencies since this project is ongoing.
 
 #####What, Why, & How:
-My Educational Data Mining research and unconventional education path ignited my passion for Data Science and the improvement of Education. For these reasons, I’ve decided to undertake a data science project that will enable educators to make more informed decisions towards improving student performance in e-learning environments. This project involves my analysis of anonymized student-level data from “massive open online courses,” otherwise known as MOOCs. I've cleansed, transformed, explored, modeled, visualized, and interpreted student log data from HarvardX and MITx MOOCs on edX, using Python, Pandas, NumPy, and SciKit-Learn in Jupyter’s IPython Notebook.
+My Educational Data Mining research and unconventional education path ignited my passion for Machine Learning and the improvement of Education. For these reasons, I’ve decided to undertake a data science project that will enable educators to make more informed decisions towards improving student performance in e-learning environments. This project involves my analysis of anonymized student-level data from “massive open online courses,” otherwise known as MOOCs. I've cleansed, transformed, explored, modeled, visualized, and interpreted student log data from HarvardX and MITx MOOCs on edX, using Python, Pandas, NumPy, and SciKit-Learn in Jupyter’s IPython Notebook.
 
 #####Data Scource & Overview:  
 The [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26147) contains 129843 student logs from HarvardX and MITx MOOCs on edX. These logs mostly contain student behavior captured by browser events, measures derived from these events, anonymized student and course identifications, student demographics, and final grades.
@@ -16,9 +16,8 @@ The [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.79
 #####Secondary Objectives of my analysis:
 ######1. Predict student performance outcomes in MOOCs offered by edX
 I define an outcome as whether a student recieves a certification, along with their grade range.
-######2. Determine student behavior, curiculum delivery methods, and demographics conducive to positive and negative performance outcomes in MOOCs. 
-Student behavior is captured by their browser events. In this case, browser events reffer to students’ interactions with the edX platform in their web browser. These are primarly interactions with curriculum content in the “Courseware” tab. These interactions implicitly measure their study habits.
-study habits, curiculum delivery methods
+######2. Determine student behavior, curriculum delivery methods, and demographics conducive to positive and negative performance outcomes in MOOCs. 
+Student behavior is captured by their browser events. In this case, browser events reffer to students’ interactions with the edX platform in their web browser. These are primarly interactions with curriculum content in the “Courseware” tab. These interactions implicitly measure their study habits and curriculum delivery methods
 
 #####Current Solutions/Products:
 ######1. Trained, tested, and evaluated predictive models that can efficiently predict student performance outcomes in MOOCs offered by edX.
